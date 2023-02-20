@@ -7,7 +7,7 @@ Meu foco tem sido Spring e React e estou fazendo novos cursos como Vue.js e Micr
 
 ## Contato
 
-Vamos conversar? Qualquer dúvida, curiosidade ou se quiser me contratar (kkkkk) sinta-se a vontade para entrar em contato. No meu Linkedin você consegue mais informações sobre mim, conecta lá!
+Vamos conversar? Qualquer dúvida, curiosidade sinta-se a vontade para entrar em contato. No meu Linkedin você consegue mais informações sobre mim, conecta lá!
 
 [![Outlook Badge](https://img.shields.io/badge/-Outook-blue?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:diegosantos.dev@outlook.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/santosediego/)
