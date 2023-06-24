@@ -1,19 +1,19 @@
 # O objetivo? Virar DEV!! 🚀
 
 ## Sobre mim
-A última área que atuei foi com testes manuais e atualmente estou aberto a novas oportunidades para a área de desenvolvimento. Não possuo carreira como desenvolvedor mas aqui no Git pode-se ver que tenho alguns projetos desenvolvidos, principalmente em back-end.
+Olá, aqui um apaixonado por tecnologia e um estudante de desenvolvimento de aplicações web back-end e front-end, aberto a novas oportunidades de trabalho, pois o meu objetivo é me tornar um desenvolvedor e construir minha carreira na área de desenvolvimento.
 
-Meu foco tem sido Spring e React e estou fazendo novos cursos como Vue.js e Microsserviços, para deixar o curriculo bacana e reforçar o lado front-end da força kkkkk.
+Minha experiência vem dos cursos e projetos pessoais que estou realizando e estão publicados aqui em meu [Github](https://github.com/santosediego?tab=repositories). Profissionalmente já trabalho com sistemas atuando como analista de sistemas e testes manuais, mas quero avançar para o desenvolvimento. Meu foco atual tem sido em estudar as tecnologias Spring, React e atualmente comecei a estudar também VueJS e microsserviços para deixar o curriculo bacana e reforçar o lado dev da força kkkkk.
 
 ## Contato
 
-Vamos conversar? Qualquer dúvida, curiosidade sinta-se a vontade para entrar em contato. No meu Linkedin você consegue mais informações sobre mim, conecta lá!
+Vamos conversar? Qualquer dúvida ou curiosidade sinta-se a vontade para entrar em contato. No meu Linkedin você consegue mais informações sobre mim, conecta lá!
 
 [![Outlook Badge](https://img.shields.io/badge/-Outook-blue?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:diegosantos.dev@outlook.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/santosediego/)
 
-## Ferramentas
-As principais ferramentas que uso atualmente nos meus estudos e projetos pessoais são:
+## Ferramentas e plataformas
+As principais ferramentas que uso atualmente em meus estudos e projetos pessoais são:
 - Spring Tool
 - Visual Studio Code
 - Postman
@@ -25,15 +25,19 @@ As principais ferramentas que uso atualmente nos meus estudos e projetos pessoai
 - Heroku
 - Netlifly
 - AWS
+- Railway
 
 ## Habilidades
 Habilidades nas quais estou estudando:
 - Java Spring
-- React
+- JPA
+- ReactJS
 - HTML
 - CSS
 - SQL
 - Vue
+- JavaScript
+- Microserviços
 
 <!--
 **santosediego/santosediego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
