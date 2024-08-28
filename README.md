@@ -1,9 +1,9 @@
-# O objetivo? Virar DEV!! 🚀
+# Bem vindo! 🚀
 
 ## Sobre mim
-Olá, aqui um apaixonado por tecnologia e um estudante de desenvolvimento de aplicações web back-end e front-end, aberto a novas oportunidades de trabalho, pois o meu objetivo é me tornar um desenvolvedor e construir minha carreira na área de desenvolvimento.
+Apaixonado por tecnologias e ficção cientifica, um estudante e curioso que atualmente atua como analista de sistemas e em testes manuais. Meu foco é desenvolvimento e eu utilizo principalmente as tecnologias Java com Spring e ReactJS .
 
-Minha experiência vem dos cursos e projetos pessoais que estou realizando e estão publicados aqui em meu [Github](https://github.com/santosediego?tab=repositories). Profissionalmente já trabalho com sistemas atuando como analista de sistemas e testes manuais, mas quero avançar para o desenvolvimento. Meu foco atual tem sido em estudar as tecnologias Spring, React e atualmente comecei a estudar também VueJS e microsserviços para deixar o curriculo bacana e reforçar o lado dev da força kkkkk.
+Minha experiência vem dos cursos e projetos pessoais que estou realizando, e estão publicados aqui em meu [Github](https://github.com/santosediego?tab=repositories). Adquiri experiência também na minha área de atuação como analista de sistemas e teste.
 
 ## Contato
 
