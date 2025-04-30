@@ -1,43 +1,56 @@
-# Bem vindo! 🚀
+# 👋 Olá, seja bem-vindo(a)!
 
-## Sobre mim
-Apaixonado por tecnologias e ficção cientifica, um estudante e curioso que atualmente atua como analista de sistemas e em testes manuais. Meu foco é desenvolvimento e eu utilizo principalmente as tecnologias Java com Spring e ReactJS .
+## ✨ Sobre mim
 
-Minha experiência vem dos cursos e projetos pessoais que estou realizando, e estão publicados aqui em meu [Github](https://github.com/santosediego?tab=repositories). Adquiri experiência também na minha área de atuação como analista de sistemas e teste.
+Sou apaixonado por tecnologia, ficção científica e tudo que envolve inovação. Atuo como **Analista de Sistemas**, com foco atual em **testes manuais**, mas meu grande objetivo é me consolidar na área de **desenvolvimento**.
 
-## Contato
+Minhas principais ferramentas de trabalho envolvem **Java com Spring** e **ReactJS**, tecnologias que utilizo em estudos e projetos pessoais — muitos deles você pode conferir aqui mesmo, no meu [GitHub](https://github.com/santosediego?tab=repositories).
 
-Vamos conversar? Qualquer dúvida ou curiosidade sinta-se a vontade para entrar em contato. No meu Linkedin você consegue mais informações sobre mim, conecta lá!
+Além dos projetos pessoais, também adquiri experiência prática na área, o que fortalece meu aprendizado e visão de produto.
 
-[![Outlook Badge](https://img.shields.io/badge/-Outook-blue?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:diegosantos.dev@outlook.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/santosediego/)
+---
 
-## Ferramentas e plataformas
-As principais ferramentas que uso atualmente em meus estudos e projetos pessoais são:
-- Spring Tool
-- Visual Studio Code
-- Postman
-- Postgres
-- Git
-- Notion
-- Windows
-- Ubuntu
-- Heroku
-- Netlifly
-- AWS
-- Railway
+## 📬 Contato
 
-## Habilidades
-Habilidades nas quais estou estudando:
-- Java Spring
-- JPA
-- ReactJS
-- HTML
-- CSS
-- SQL
-- Vue
-- JavaScript
-- Microserviços
+Sinta-se à vontade para me chamar para conversar, tirar dúvidas ou simplesmente trocar ideias!
+
+[![Outlook Badge](https://img.shields.io/badge/-Outlook-blue?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:diegosantos.dev@outlook.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/santosediego/)
+
+---
+
+## 🛠️ Ferramentas e Plataformas
+
+Atualmente utilizo em meus projetos e estudos:
+
+- Spring Tool Suite  
+- Visual Studio Code  
+- Postman  
+- PostgreSQL  
+- Git  
+- Notion  
+- Windows e Ubuntu  
+- Heroku, Netlify, AWS e Railway  
+
+---
+
+## 🚀 Tecnologias e Habilidades
+
+Estou em constante aprendizado nas seguintes tecnologias:
+
+- Java + Spring Boot  
+- JPA / Hibernate  
+- ReactJS  
+- HTML, CSS e JavaScript  
+- SQL  
+- Vue.js  
+- Microserviços  
+
+---
+
+> 💡 *Curioso por natureza, movido a café e motivado por boas ideias. Sempre pronto para o próximo desafio!*
+
+
 
 <!--
 **santosediego/santosediego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
