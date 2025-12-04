@@ -29,6 +29,7 @@ Atualmente utilizo em meus projetos e estudos:
 - PostgreSQL  
 - Git  
 - Linux
+- Docker
 
 ---
 
@@ -43,6 +44,7 @@ Estou em constante aprendizado nas seguintes tecnologias:
 - SQL
 - Liquibase
 - JWT
+- Python
 
 ---
 
