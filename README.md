@@ -2,9 +2,9 @@
 
 ## ✨ Sobre mim
 
-Sou apaixonado por tecnologia, ficção científica e tudo que envolve inovação. Atuo como **Analista de Sistemas**, com foco atual em **testes manuais**, mas meu grande objetivo é me consolidar na área de **desenvolvimento**.
+Sou apaixonado por tecnologia, ficção científica e tudo que envolve inovação. Atuo como **Analista de Sistemas**, com foco atual em **testes**, mas meu prazer está na área de **desenvolvimento**.
 
-Minhas principais ferramentas de trabalho envolvem **Java com Spring** e **ReactJS**, tecnologias que utilizo em estudos e projetos pessoais — muitos deles você pode conferir aqui mesmo, no meu [GitHub](https://github.com/santosediego?tab=repositories).
+Minhas principais ferramentas de trabalho envolvem **Java com Spring** e **ReactJS**, tecnologias que utilizo em projetos pessoais — muitos deles você pode conferir aqui mesmo, no meu [GitHub](https://github.com/santosediego?tab=repositories).
 
 Além dos projetos pessoais, também adquiri experiência prática na área, o que fortalece meu aprendizado e visão de produto.
 
@@ -28,9 +28,7 @@ Atualmente utilizo em meus projetos e estudos:
 - Postman  
 - PostgreSQL  
 - Git  
-- Notion  
-- Windows e Ubuntu  
-- Heroku, Netlify, AWS e Railway  
+- Linux
 
 ---
 
@@ -42,9 +40,9 @@ Estou em constante aprendizado nas seguintes tecnologias:
 - JPA / Hibernate  
 - ReactJS  
 - HTML, CSS e JavaScript  
-- SQL  
-- Vue.js  
-- Microserviços  
+- SQL
+- Liquibase
+- JWT
 
 ---
 
