@@ -2,13 +2,13 @@
 
 ## ✨ Sobre mim
 
-Atuo como **Analista de Sistemas**, hoje com foco em testes, mas o que me move de verdade é o desenvolvimento — **Java/Spring Boot** e **React** são minhas ferramentas de cabeceira.
+Atuo como **Analista de Sistemas**, hoje com foco em testes, mas o que me move de verdade é o desenvolvimento — **Java/Spring Boot** no backend e **React** no frontend são as tecnologias com as quais mais gosto de trabalhar.
 
-Cresci fascinado por robôs e ficção científica — O Exterminador do Futuro, RoboCop e Um Robô em Curto-Circuito marcaram minha infância — e isso meio que define meu jeito de enxergar tecnologia até hoje. Também acompanho de perto o que rola na exploração espacial, sempre de olho nas novidades de SpaceX e NASA.
+Cresci fascinado por robôs e ficção científica — O Exterminador do Futuro, RoboCop e Um Robô em Curto-Circuito marcaram minha infância — e isso meio que define meu jeito de enxergar tecnologia até hoje. Também acompanho de perto o que rola na exploração espacial, sempre acompanhando as novidades da SpaceX e da NASA.
 
 Fora do trabalho, mantenho um **home lab** onde estudo virtualização, redes e self-hosting na prática — prefiro rodar meus próprios serviços a depender de nuvens de terceiros. É onde aprendo testando, quebrando e arrumando.
 
-Os projetos que mais gosto estão fixados aqui no perfil 👆
+Os projetos que mais gosto estão fixados aqui abaixo no perfil.
 
 ---
 
