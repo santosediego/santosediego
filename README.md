@@ -2,11 +2,20 @@
 
 ## ✨ Sobre mim
 
-Sou apaixonado por tecnologia, ficção científica e tudo que envolve inovação. Atuo como **Analista de Sistemas**, com foco atual em **testes**, mas meu prazer está na área de **desenvolvimento**.
+Atuo como **Analista de Sistemas**, hoje com foco em testes, mas o que me move de verdade é o desenvolvimento — **Java/Spring Boot** e **React** são minhas ferramentas de cabeceira.
 
-Minhas principais ferramentas de trabalho envolvem **Java com Spring** e **ReactJS**, tecnologias que utilizo em projetos pessoais — muitos deles você pode conferir aqui mesmo, no meu [GitHub](https://github.com/santosediego?tab=repositories).
+Cresci fascinado por robôs e ficção científica — O Exterminador do Futuro, RoboCop e Um Robô em Curto-Circuito marcaram minha infância — e isso meio que define meu jeito de enxergar tecnologia até hoje. Também acompanho de perto o que rola na exploração espacial, sempre de olho nas novidades de SpaceX e NASA.
 
-Além dos projetos pessoais, também adquiri experiência prática na área, o que fortalece meu aprendizado e visão de produto.
+Fora do trabalho, mantenho um **home lab** onde estudo virtualização, redes e self-hosting na prática — prefiro rodar meus próprios serviços a depender de nuvens de terceiros. É onde aprendo testando, quebrando e arrumando.
+
+Os projetos que mais gosto estão fixados aqui no perfil 👆
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=santosediego&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santosediego&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -21,13 +30,11 @@ Sinta-se à vontade para me chamar para conversar, tirar dúvidas ou simplesment
 
 ## 🛠️ Ferramentas e Plataformas
 
-Atualmente utilizo em meus projetos e estudos:
-
-- Spring Tool Suite  
-- Visual Studio Code  
-- Postman  
-- PostgreSQL  
-- Git  
+- Spring Tool Suite
+- Visual Studio Code
+- Postman
+- PostgreSQL
+- Git
 - Linux
 - Docker
 
@@ -35,12 +42,10 @@ Atualmente utilizo em meus projetos e estudos:
 
 ## 🚀 Tecnologias e Habilidades
 
-Estou em constante aprendizado nas seguintes tecnologias:
-
-- Java + Spring Boot  
-- JPA / Hibernate  
-- ReactJS  
-- HTML, CSS e JavaScript  
+- Java + Spring Boot
+- JPA / Hibernate
+- ReactJS
+- HTML, CSS e JavaScript
 - SQL
 - Liquibase
 - JWT
@@ -48,21 +53,4 @@ Estou em constante aprendizado nas seguintes tecnologias:
 
 ---
 
-> 💡 *Curioso por natureza, movido a café e motivado por boas ideias. Sempre pronto para o próximo desafio!*
-
-
-
-<!--
-**santosediego/santosediego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> 💡 *Da fascinação por robôs na TV aos serviços rodando no próprio rack de casa — sempre tem alguma coisa nova em construção por aqui.*
