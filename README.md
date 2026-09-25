@@ -12,13 +12,6 @@ Os projetos que mais gosto estão fixados aqui abaixo no perfil.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=santosediego&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=santosediego&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 📬 Contato
 
 Sinta-se à vontade para me chamar para conversar, tirar dúvidas ou simplesmente trocar ideias!
