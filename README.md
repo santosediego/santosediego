@@ -24,9 +24,11 @@ Sinta-se à vontade para me chamar para conversar, tirar dúvidas ou simplesment
 ## 🛠️ Ferramentas e Plataformas
 
 - Spring Tool Suite
+- IntelliJ
 - Visual Studio Code
 - Postman
 - PostgreSQL
+- Microsoft SQL Server
 - Git
 - Linux
 - Docker
@@ -39,7 +41,7 @@ Sinta-se à vontade para me chamar para conversar, tirar dúvidas ou simplesment
 - JPA / Hibernate
 - ReactJS
 - HTML, CSS e JavaScript
-- SQL
+- SQL / T-SQL
 - Liquibase
 - JWT
 - Python
